@@ -1,6 +1,7 @@
 {
   "name": "now-what-level-up",
   "version": "0.1.0",
+  "homepage": "https://myusername.github.io/my-app",
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
